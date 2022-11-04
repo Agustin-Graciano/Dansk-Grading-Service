@@ -1,0 +1,32 @@
+{
+  "name": "tailwind",
+  "private": true,
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@fortawesome/fontawesome-svg-core": "^6.2.0",
+    "@fortawesome/free-solid-svg-icons": "^6.2.0",
+    "@fortawesome/vue-fontawesome": "^3.0.1",
+    "@vueup/vue-quill": "^1.0.0-beta.10",
+    "firebase": "^9.13.0",
+    "git-repo-down-for-vite": "^1.0.4",
+    "vue": "^3.2.25",
+    "vue-material-design-icons": "^5.1.2",
+    "vue-router": "^4.0.13",
+    "vuex": "^4.0.2"
+  },
+  "devDependencies": {
+    "@mdi/font": "^6.9.96",
+    "@vitejs/plugin-vue": "^2.3.3",
+    "autoprefixer": "^10.4.7",
+    "node-sass": "^7.0.1",
+    "postcss": "^8.4.14",
+    "tailwindcss": "^3.0.24",
+    "vite": "^2.9.9",
+    "vite-plugin-git-revision": "^0.1.9"
+  }
+}
